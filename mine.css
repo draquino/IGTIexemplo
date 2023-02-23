@@ -1,5 +1,5 @@
 .container.demo {
-  padding-top: 100px;
+  padding-top: auto;
 }
 .container.demo p {
   text-align: left;
